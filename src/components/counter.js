@@ -26,8 +26,8 @@ function Counter() {
             <h1>{count}</h1>
             <button onClick={increaseValue}> Increment </button>
             <button onClick={decreaseValue}> Decrement </button>
-            <CustomButton onClick={decreaseValue}> Increment </CustomButton>
             <CustomButton onClick={increaseValue}> Increment </CustomButton>
+            <CustomButton onClick={decreaseValue}> Decrement </CustomButton>
             <NavLink path="https://google.com"> Home </NavLink>
         </div>
     )
