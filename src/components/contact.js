@@ -26,3 +26,21 @@ const Contact = () => {
 }
 
 export default Contact
+
+// export const GrandParent = () => {
+//     return (
+//         <div>G Parents </div>
+//     )
+// }
+
+// export const Parent = () => {
+//     return (
+//         <div>My Parents </div>
+//     )
+// }
+
+// export const Child = () => {
+//     return (
+//         <div> I am Child</div>
+//     )
+// }
